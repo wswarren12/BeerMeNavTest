@@ -69,11 +69,11 @@ class BMTableViewController: UIViewController, UITableViewDelegate, UITableViewD
         let selectedCellVc = BMSelectedCellViewController()
         selectedCellVc.title = "\(indexPath.row)"
         
-        let home = BMSelectedCellViewController()
-        home.title = "Home"
+        let StaticVC = StaticViewController()
+        StaticVC.title = "StaticVC"
         
         let tab = UITabBarController()
-        tab.viewControllers = [selectedCellVc, home]
+        tab.viewControllers = [selectedCellVc, StaticVC]
         
         self.navigationController?.pushViewController(tab, animated: true)
 

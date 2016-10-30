@@ -12,6 +12,7 @@
 		CE66C7C51DC647D4002B93E2 /* BMhomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE66C7C41DC647D4002B93E2 /* BMhomeViewController.swift */; };
 		CE66C7C71DC64E02002B93E2 /* BMTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE66C7C61DC64E02002B93E2 /* BMTableViewController.swift */; };
 		CE66C7C91DC653C5002B93E2 /* BMSelectedCellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE66C7C81DC653C5002B93E2 /* BMSelectedCellViewController.swift */; };
+		CE66C7CB1DC65A10002B93E2 /* StaticViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE66C7CA1DC65A10002B93E2 /* StaticViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CE66C7C41DC647D4002B93E2 /* BMhomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BMhomeViewController.swift; sourceTree = "<group>"; };
 		CE66C7C61DC64E02002B93E2 /* BMTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BMTableViewController.swift; sourceTree = "<group>"; };
 		CE66C7C81DC653C5002B93E2 /* BMSelectedCellViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BMSelectedCellViewController.swift; sourceTree = "<group>"; };
+		CE66C7CA1DC65A10002B93E2 /* StaticViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StaticViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				CE66C7B21DC64776002B93E2 /* AppDelegate.swift */,
 				CE66C7C81DC653C5002B93E2 /* BMSelectedCellViewController.swift */,
 				CE66C7C61DC64E02002B93E2 /* BMTableViewController.swift */,
+				CE66C7CA1DC65A10002B93E2 /* StaticViewController.swift */,
 				CE66C7C41DC647D4002B93E2 /* BMhomeViewController.swift */,
 				CE66C7B91DC64776002B93E2 /* Assets.xcassets */,
 				CE66C7BE1DC64776002B93E2 /* Info.plist */,
@@ -138,6 +141,7 @@
 				CE66C7C91DC653C5002B93E2 /* BMSelectedCellViewController.swift in Sources */,
 				CE66C7C71DC64E02002B93E2 /* BMTableViewController.swift in Sources */,
 				CE66C7C51DC647D4002B93E2 /* BMhomeViewController.swift in Sources */,
+				CE66C7CB1DC65A10002B93E2 /* StaticViewController.swift in Sources */,
 				CE66C7B31DC64776002B93E2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
